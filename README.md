@@ -18,7 +18,7 @@ $ python ./csv_combiner.py ./fixtures_small/accessories.csv ./fixtures_small/clo
 
 Through command line: 
 ```
-$ python -m unittest test_generatefixtures.py
+$ python -m unittest test_csv_combiner.py
 ```
 
 ## Example Output of csv_combiner.py
